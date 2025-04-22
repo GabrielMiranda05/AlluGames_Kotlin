@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="933a869c-27ec-4e9e-87e0-8df533c28598" name="Changes" comment="Second commit: add class Jogo, InfoJogo and data class InfoApiShark">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/InfoApiShark.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/InfoApiShark.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/InfoJogo.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/InfoJogo.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Jogo.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Jogo.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
-    </list>
+    <list default="true" id="933a869c-27ec-4e9e-87e0-8df533c28598" name="Changes" comment="Third commit: add exceptions using runCatching" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -110,7 +104,7 @@
       <option name="presentableId" value="Default" />
       <updated>1745256295799</updated>
       <workItem from="1745256296771" duration="6420000" />
-      <workItem from="1745286069141" duration="2990000" />
+      <workItem from="1745286069141" duration="3289000" />
     </task>
     <task id="LOCAL-00001" summary="Second commit: add class Jogo, InfoJogo and data class InfoApiShark">
       <option name="closed" value="true" />
@@ -128,7 +122,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745261968386</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Third commit: add exceptions using runCatching">
+      <option name="closed" value="true" />
+      <created>1745289357777</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1745289357777</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,6 +138,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Second commit: add class Jogo, InfoJogo and data class InfoApiShark" />
-    <option name="LAST_COMMIT_MESSAGE" value="Second commit: add class Jogo, InfoJogo and data class InfoApiShark" />
+    <MESSAGE value="Third commit: add exceptions using runCatching" />
+    <option name="LAST_COMMIT_MESSAGE" value="Third commit: add exceptions using runCatching" />
   </component>
 </project>
